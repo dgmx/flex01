@@ -1,4 +1,4 @@
 # Repositorio de Flex01
 ## Autor Diego J. González
 
-Deja tus comentarios
+Practica de clase sobre un template CSS
